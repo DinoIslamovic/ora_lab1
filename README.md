@@ -1,7 +1,7 @@
 # ora_lab1
 Repozitorij prve laboratorijske vježbe kolegija Otvoreno Računarstvo
 
-##Licencija
+## Licencija
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
 Zaštićeno licencijom Creative Commons 4.0
@@ -13,35 +13,35 @@ Zaštićeno licencijom Creative Commons 4.0
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 
-##Autor
+## Autor
 Dino Islamović
 
-##Verzija podataka
+## Verzija podataka
 1.0
 
-##Jezik
+## Jezik
 Engleski
 
-##Atributi
-###whatYear
+## Atributi
+### whatYear
 O kojoj godini se radi
-###numberOfPeopleMln
+### numberOfPeopleMln
 Broj živih ljudi u milijunima
-###growthRate
+### growthRate
 Stopa rasta
-###deathsMln
+### deathsMln
 Broj smrti u milijunima
-###birthsMln
+### birthsMln
 Broj porođaja u milijunima
-###mostPopulousContinent
+### mostPopulousContinent
 Kontinent sa najviše stanovnika
-###fastestGrowingCountries
+### fastestGrowingCountries
 Tri države sa najvećom stopom rasta
-###slowestGrowingCountry
+### slowestGrowingCountry
 Država kojoj najsporije raste broj stanovnika/najbrže pada broj stanovnika
-###nextYearPredictionMln
+### nextYearPredictionMln
 Projekcija broja stanovnika za narednu godinu
-###numberOfCountries
+### numberOfCountries
 Broj država u svijetu
 
 
